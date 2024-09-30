@@ -1,0 +1,67 @@
+a {color: black;
+text-decoration: none;} 
+
+ header { display: flex;
+justify-content: space-between;
+align-items: center;
+font-family: 'Courier New', Courier, monospace;}
+ 
+ 
+ header ul{display: flex;
+    gap: 20px;
+    list-style: none;}
+
+header img {width: 40px;
+    }
+    header { background-color: white;}
+
+    .hero{background-color: rgb(90, 194, 90); 
+    font-family:'Courier New', Courier, monospace;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.hero h2 {border:2px solid black;
+border-radius: 10px;
+margin-left: 20px;
+padding: 10px;
+background-color: rgb(37, 135, 22);
+border-color: rgb(148, 229, 19);}
+
+.kochschule img{
+width: 300px;
+height: 300px;
+padding: 10px;}
+
+
+
+.kochschule {background-color: rgb(182, 252, 76);
+    font-family: 'Courier New', Courier, monospace;
+    display:flex;
+    justify-content:flex-start;
+    padding: 10px;
+    gap: 100px;
+    }
+
+.kochschule li {display: flex;
+justify-content: center;
+align-items: center;
+list-style: none;
+border: 2px dashed black;
+margin-bottom: 30px;
+text-align: center;
+padding: 20px;
+font-weight: bold;
+border-radius: 10px;}
+
+
+.kochschule ul {display: flex; 
+gap: 20px}
+.kochschule div {width: 400px;}
+
+.hero img {width:250px;
+height:250px;
+padding:10px}

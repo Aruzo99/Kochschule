@@ -1,0 +1,22 @@
+body { 
+    background-color:rgb(61, 145, 168);
+}
+h1 {background-color: aquamarine;
+}
+li {background-color: burlywood;
+width: 80px;
+padding: 30px;
+border: 50px;
+font-style:courier;
+}
+a {background-color: rgb(248, 246, 243);
+}
+a {color: blueviolet;}
+p {color: chartreuse;}
+.box {
+    border: 2px solid crimson;  
+    width: 300px;
+    padding: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+}
